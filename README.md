@@ -1,2 +1,2 @@
-# SQL_Comparison_And_Logical_Operator_Examples
-SQL_Comparison_And_Logical_Operator_Examples
+# SQL-Examples
+1-SQL->Comparison And Logical Operator Examples
