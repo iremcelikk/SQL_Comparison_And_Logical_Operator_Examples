@@ -12,7 +12,3 @@ SELECT last_name AS last_name_of_mary FROM customer WHERE first_name='Mary';
 
 --5-Select all columns from film table provided that length is not greater than 50 and rental_rate is not 2.99 or 4.99
 SELECT * FROM film WHERE (NOT length >50) AND NOT(rental_rate = 2.99 OR rental_rate = 4.99);
-
-
-
-
