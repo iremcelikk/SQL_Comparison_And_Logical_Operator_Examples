@@ -7,3 +7,7 @@
 3-SQL-> LIKE ILIKE NOTLIKE Examples
 
 4-SQL-> DISTINCT COUNT Examples
+
+5-SQL-> ORDERBY LIMIT OFFSET Examples
+
+6-SQL-> Aggregation Functions Examples
