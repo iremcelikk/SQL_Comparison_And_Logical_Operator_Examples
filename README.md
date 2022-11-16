@@ -11,3 +11,5 @@
 5-SQL-> ORDERBY LIMIT OFFSET Examples
 
 6-SQL-> Aggregation Functions Examples
+
+7-SQL-> GROUPBY HAVING Examples
