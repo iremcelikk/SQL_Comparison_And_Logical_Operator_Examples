@@ -1,4 +1,4 @@
-# SQL-Examples
+# POSTGRESQL-Examples
 
 1-SQL-> Comparison And Logical Operator Examples
 
