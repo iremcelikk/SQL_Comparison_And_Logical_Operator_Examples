@@ -13,3 +13,5 @@
 6-SQL-> Aggregation Functions Examples
 
 7-SQL-> GROUPBY HAVING Examples
+
+8-SQL-> Create Drop Table and Update Delete Row Examples
